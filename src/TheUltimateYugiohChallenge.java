@@ -1,5 +1,6 @@
 import java.util.Random;
 
+// A program designed to produce a random rule generator for the trading card game of Yu-Gi-Oh!
 public class TheUltimateYugiohChallenge {
     public static void main(String[] args) {
 
